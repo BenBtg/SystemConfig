@@ -5,5 +5,5 @@ oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/
 
 ### Bens Custom OhMYPosh Config
 ```
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/BenBtg/SystemConfig/master/ohmyposh-benbtg.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/BenBtg/SystemConfig/main/ohmyposh-benbtg.json' | Invoke-Expression
 ```
